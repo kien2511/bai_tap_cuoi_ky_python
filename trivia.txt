@@ -1,0 +1,10 @@
+What do 2 + 2 = ?
+4
+
+Bạn tên của bạn là gì?
+Kien
+
+python là ngôn ngữ?
+Lập Trình
+
+
